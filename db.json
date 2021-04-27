@@ -9,11 +9,11 @@
       "available": true
     },
     {
-      "id": 4,
-      "name": "PRINTER",
-      "price": "100",
-      "quantity": "1",
-      "selected": true,
+      "id": 5,
+      "name": "Printer",
+      "price": "250",
+      "quantity": "200",
+      "selected": false,
       "available": true
     }
   ]
