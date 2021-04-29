@@ -1,20 +1,20 @@
 {
   "Products": [
     {
-      "id": 3,
-      "name": "Smartphone",
-      "price": 100,
-      "quantity": 200,
-      "selected": true,
-      "available": true
-    },
-    {
       "id": 5,
       "name": "Printer",
       "price": "250",
-      "quantity": "200",
+      "quantity": "2000",
       "selected": false,
       "available": true
+    },
+    {
+      "name": "camputer",
+      "price": "20",
+      "quantity": "30",
+      "selected": true,
+      "available": false,
+      "id": 6
     }
   ]
 }
